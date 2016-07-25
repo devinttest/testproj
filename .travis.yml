@@ -46,6 +46,4 @@ script: phpunit --configuration phpunit_$DB.xml --coverage-text
 
 # configure notifications (email, IRC, campfire etc)
 notifications:
-  slack: 
-  - appmigration2:5lqAlDrJFOPl36JPvTiNlGMC
-  - appmigration1:ABcVNhtFmCqMpddNt6MsxjEE
+  slack: appmigration1:ABcVNhtFmCqMpddNt6MsxjEE
