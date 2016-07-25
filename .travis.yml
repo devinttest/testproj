@@ -4,4 +4,7 @@ language: php
 # list any PHP version you want to test against
 
 notifications:
-  slack: appmigration2:5lqAlDrJFOPl36JPvTiNlGMC
+  slack: 
+  - appmigration2:5lqAlDrJFOPl36JPvTiNlGMC
+  - appmigration1:ABcVNhtFmCqMpddNt6MsxjEE
+  
